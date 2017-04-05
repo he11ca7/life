@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/alive.png</file>
+        <file>res/dead.png</file>
+        <file>res/cube.png</file>
+        <file>res/invader.png</file>
+    </qresource>
+</RCC>
